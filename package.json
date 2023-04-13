@@ -22,7 +22,7 @@
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.6",
-    "serve": "^11.3.2"
+    "serve": "^14.2.0"
   },
   "dependencies": {
     "cookie-parser": "^1.4.5",
